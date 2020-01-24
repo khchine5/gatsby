@@ -5461,6 +5461,17 @@
   built_by: Bennett Hardwick
   built_by_url: https://bennetthardwick.com
   featured: false
+- title: Kodingnesia
+  url: https://kodingnesia.com/
+  main_url: https://kodingnesia.com/
+  description: >
+    Kodingnesia is a place for learning programming & linux in Bahasa Indonesia.
+  categories:
+    - Blog
+    - Programming
+    - Technology
+  built_by: Frisko Mayufid
+  built_by_url: https://frisko.space
 - title: Sindhuka
   url: https://sindhuka.org/
   main_url: https://sindhuka.org/
@@ -7122,7 +7133,7 @@
   featured: false
 - title: Recetas El Universo
   description: >-
-    Recipes and videos with the best of Ecuadorian cuisine. 
+    Recipes and videos with the best of Ecuadorian cuisine.
     Collectable recipes from Diario El Universo.
   main_url: "https://recetas-eu.netlify.com/"
   url: "https://recetas-eu.netlify.com/"
@@ -9114,8 +9125,8 @@
   featured: false
 - title: Reeemoter
   description: >-
-    Join thousands of developers from everywhere and access to job 
-    offers from hundreds of companies worldwide right 
+    Join thousands of developers from everywhere and access to job
+    offers from hundreds of companies worldwide right
     at your inbox for free.
   main_url: "https://reeemoter.com/"
   url: "https://reeemoter.com/"
@@ -9230,6 +9241,19 @@
   built_by: Bare Advertising & Communications
   built_by_url: https://www.bare.ca/
   featured: false
+- title: Nathaniel Ryan Mathew
+  url: https://nathanielmathew.me
+  main_url: https://nathanielmathew.me
+  source_url: https://github.com/nathanielmathew/MyPortfolio
+  description: >
+    A personal online Portfolio built using GatsbyJS, that showcases Achievements, Projects and Additional information.
+  categories:
+    - Portfolio
+    - Open Source
+    - Blog
+  built_by: Nathaniel Ryan Mathew
+  built_by_url: https://github.com/nathanielmathew
+  featured: false
 - title: Kanazawa.js Community Page
   main_url: https://kanazawajs.now.sh/
   url: https://kanazawajs.now.sh/
@@ -9242,6 +9266,7 @@
     - Web Development
   built_by: Kanazawa.js
   built_by_url: https://twitter.com/knzw_js
+  featured: false
 - title: monica*dev
   url: https://www.aboutmonica.com/
   main_url: https://www.aboutmonica.com/
@@ -9254,6 +9279,7 @@
     - Portfolio
   built_by: Monica Powell
   built_by_url: https://www.aboutmonica.com/
+  featured: false
 - title: Shivam Sinha
   url: https://www.helloshivam.com/
   main_url: https://www.helloshivam.com/
@@ -9263,4 +9289,159 @@
     - Portfolio
   built_by: Shivam Sinha
   built_by_url: https://www.helloshivam.com/
+  featured: false
+- title: Brianna Sharpe - Writer
+  main_url: https://www.briannasharpe.com/
+  url: https://www.briannasharpe.com/
+  source_url: https://github.com/ehowey/briannasharpe
+  description: >
+    Brianna Sharpe is an Alberta, Canada based freelance writer and journalist focused on health, LGBTQ2S+, parenting, and the environment.
+  categories:
+    - Portfolio
+    - Media
+  built_by: Eric Howey
+  built_by_url: https://www.erichowey.dev/
+  featured: false
+- title: Eric Howey Web Development
+  main_url: https://www.erichowey.dev/
+  url: https://www.erichowey.dev/
+  source_url: https://github.com/ehowey/erichoweydev
+  description: >
+    Personal website and blog for Eric Howey. I am a freelance web developer based in Alberta, Canada specializing in Gatsby, React, Wordpress and Theme-UI.
+  categories:
+    - Portfolio
+    - Web Development
+    - Freelance
+    - Blog
+  built_by: Eric Howey
+  built_by_url: https://www.erichowey.dev/
+- title: Solfej Chord Search
+  url: https://www.solfej.io/chords
+  main_url: https://www.solfej.io/chords
+  description: >
+    Solfej Chord Search helps you master every chord imaginable. It shows you notes, intervals, guitar and piano fingerings for 1000s of chords.
+  categories:
+    - Education
+    - Music
+  built_by: Shayan Javadi
+  built_by_url: https://www.instagram.com/shawnjavadi/
+- title: a+ Saúde
+  url: https://www.amaissaude.com.br/
+  main_url: https://www.amaissaude.com.br/
+  description: >
+    An even better experience in using health services.
+  categories:
+    - Healthcare
+    - Marketing
+    - Blog
+  built_by: Grupo Fleury
+  built_by_url: http://www.grupofleury.com.br/
+  featured: false
+- title: Mallikarjun Katakol Photography
+  main_url: https://mallik.in
+  url: https://mallik.in
+  built_by: Arvind Kumar
+  built_by_url: "https://arvind.io/"
+  description: >
+    Mallikarjun Katakol is an Advertising, Architecture, Editorial, Fashion and Lifestyle Photographer based in Bangalore, India.
+    Shoots Corporate & Business headshots, Portfolios for Models and Actors, Documents Projects for Architects, Fashion & Interior Designers
+  featured: false
+  categories:
+    - Gallery
+    - Photography
+    - Portfolio
+- title: gatsby-animate-blog
+  url: https://gatsby-animate-blog.luffyzh.now.sh/
+  main_url: https://gatsby-animate-blog.luffyzh.now.sh/home
+  source_url: https://github.com/luffyZh/gatsby-animate-blog
+  description: >
+    A simple && cool blog site starter kit by Gatsby.
+  categories:
+    - Blog
+    - Open Source
+    - Web Development
+  built_by: luffyZh
+  built_by_url: https://github.com/luffyZh
+  featured: false
+- title: GIS-Netzwerk
+  url: https://www.gis-netzwerk.com/
+  main_url: https://www.gis-netzwerk.com/
+  description: >
+    Geoinformatik, GIS, Web-Development.
+  categories:
+    - Blog
+    - Data
+    - Technology
+  built_by: Max Dietrich
+  built_by_url: https://www.gis-netzwerk.com/
+  featured: false
+- title: Hand in Hand Preschool
+  url: https://handinhand-preschool.com/
+  main_url: https://handinhand-preschool.com/
+  description: >
+    Hand in Hand Preschool is a preschool located in Geneva, IL.
+  categories:
+    - Education
+    - Business
+  built_by: ccalamos
+  built_by_url: https://github.com/ccalamos
+  featured: false
+- title: Krishna Gopinath
+  main_url: https://krishnagopinath.me
+  url: https://krishnagopinath.me
+  source_url: https://github.com/krishnagopinath/website
+  description: >
+    Website of Krishna Gopinath, software engineer and budding teacher.
+  categories:
+    - Portfolio
+  built_by: Krishna Gopinath
+  built_by_url: https://twitter.com/krishwader
+  featured: false
+- title: Curology
+  main_url: https://curology.com
+  url: https://curology.com
+  description: >
+    Curology's mission is to make effective skincare accessible to everyone. We provide customized prescription skincare for our acne and anti-aging patients.
+  categories:
+    - Healthcare
+    - Community
+    - Landing Page
+  built_by: Curology
+  built_by_url: https://curology.com
+- title: labelmake.jp
+  main_url: https://labelmake.jp/
+  url: https://labelmake.jp/
+  description: >
+    Web Application of Variable Data Printing and Blog.
+  categories:
+    - App
+    - Data
+    - Blog
+  built_by: hand-dot
+  built_by_url: https://twitter.com/hand_dot
+  featured: false
+- title: Adam Bowen
+  main_url: https://adamcbowen.com/
+  url: https://adamcbowen.com/
+  source_url: https://github.com/bowenac/my-website
+  description: >
+    Personal website for Adam Bowen. I am a freelance web developer based in Tacoma, WA specializing in Wordpress, Craft CMS, plus a lot more and recently fell in love with Gatsby.
+  categories:
+    - Portfolio
+    - Web Development
+    - Freelance
+  built_by: Adam Bowen
+  built_by_url: https://adamcbowen.com
+  featured: false
+- title: See Kids Dream
+  url: "https://seekidsdream.org/"
+  main_url: "https://seekidsdream.org/"
+  description: >
+    A not-for-profit organization dedicated to empower youth with the skills, motivation and confidence.
+  categories:
+    - Nonprofit
+    - Education
+    - Learning
+  built_by: CapTech Consulting
+  built_by_url: https://www.captechconsulting.com/
   featured: false
